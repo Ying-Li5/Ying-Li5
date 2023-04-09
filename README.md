@@ -1,4 +1,7 @@
+![Ying Li](https://user-images.githubusercontent.com/85194401/230793348-e2ab5241-61cc-4134-9c74-608db24c0a2d.png)
+
 ### Hi there 👋
+My name is Ying and I am currently in an Software Development bootcamp where I am engaged into web desgin, web development, and software engineering.
 
 <!--
 **Ying-Li5/Ying-Li5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
